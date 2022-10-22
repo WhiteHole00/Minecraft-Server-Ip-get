@@ -9,6 +9,8 @@
 
 사용법 모름 안써봄 써본적 없음 질문 x 
 
+• 유출한 새끼 : 강구#9999
+
 - Example
 
 ![unknown](https://user-images.githubusercontent.com/101702658/197342524-a1e64583-e0a4-4981-a8c8-3d821f38e589.png)
